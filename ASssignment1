@@ -1,0 +1,10 @@
+ What is JavaScrip hoisting, what are the use cases? Write an example program for the same.
+
+ :-variable are declared after it has been used.
+    like First they are executed like(console.log) and after that they are declared or initialised.
+    that is nothing but hoisting.
+            When you execute a source of JavaScript code, the JavaScript engine creates the Global execution context.The global execution context has two phases: creation and execution.During the creation phase, the JavaScript engine moves the variable and function declarations to the top of your code. This feature is known as hoisting in JavaScript. creation phase variable are initialised with value undefined. 
+
+Use Cases-
+    Switch case, Sorting array elements ,object spread, callBacks, working on numbers, Include and Remove attributes, mouse events, string type, regular expression these are all use cases.
+    
